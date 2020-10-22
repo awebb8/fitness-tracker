@@ -4,6 +4,7 @@
 
   ## The Repository
   Link to repository: https://github.com/awebb8/fitness-tracker
+  Link to deployed application: https://polar-anchorage-70821.herokuapp.com/
 
   ## About
   The Fitness Tracker is an application built to track a user's workouts.  Users can create and track multiple workouts completed on a given day.  Users can also track the name, type, weight, sets, reps, and duration of exercise.  Additionally, if the exercise is a cardio exercise, the user can track the distance travelled. This application utilizes a Mongoose schema and handles routes with Express.  
